@@ -1,0 +1,8 @@
+executables/
+executables/*
+art/
+art/*
+fonts/
+fonts/*
+.import/
+.import/*
